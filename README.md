@@ -57,6 +57,7 @@
 - **[Cocos2d-x](https://www.cocos.com/en/)** - A game engine designed for mobile game development.
 - **[Phaser](https://phaser.io/)** - A fast and lightweight HTML5 engine for web-based 2D games.
 - **[GDevelop](https://gdevelop.io/)** - A no-code game engine for creating games for web, mobile, and desktop platforms.
+- **[VNovels](https://vnovels.com)** - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate backgrounds, character art, music and SFX with AI, and publish playable visual novels. No coding required.
 - **[Defold](https://defold.com/)** - A cross-platform game engine optimized for performance.
 - **[MonoGame](https://www.monogame.net/)** - An open-source framework for creating multi-platform games.
 
